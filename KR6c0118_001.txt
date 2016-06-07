@@ -1,20 +1,19 @@
-#-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 19:45:48.875391
+# -*- mode: mandoku-view; -*-
+#+DATE: 2016-06-08 7:26
 #+TITLE: 金剛頂瑜伽理趣般若經
 #+PROPERTY: CBETA_ID T08n0241
 #+PROPERTY: ID KR6c0118
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 08, No. 241
 #+PROPERTY: VOL 08
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS master
 #+PROPERTY: LASTPB <pb:KR6c0118_T_000-0778b>¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶
 #+PROPERTY: LASTPB <pb:KR6c0118_T_001-0778b> ¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶
 #+PROPERTY: JUAN 1
 ¶
 ¶
-No.241[Nos.220(10),240,242-244]¶
-
- 金剛頂瑜伽理趣般若經¶
+No. 241 [Nos. 220(10), 240, 242-244]¶
+金剛頂瑜伽理趣般若經¶
 ¶
 唐南天竺三藏金剛智依梵本於中天譯¶
 
@@ -343,9 +342,9 @@ No.241[Nos.220(10),240,242-244]¶
 　大欲清淨人，
 　大施安樂人，¶
 　於三界自在，
-　作堅固利益。」
+　作堅固利益。」」
 #+END_VERSE
-」¶
+¶
 
 復說密語：¶
 
